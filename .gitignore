@@ -1,0 +1,22 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 依赖库（不应该上传）
+lib/
+venv/
+env/
+.venv/
+
+# 打包生成的文件
+dist/
+build/
+*.spec
+
+# 下载的图片
+album_covers/
+
+# IDE 配置
+.vscode/
+.idea/
